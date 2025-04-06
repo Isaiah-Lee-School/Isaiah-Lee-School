@@ -1,4 +1,4 @@
-Hi, I’m Isaiah Le, a student in the Software Development program at Mohawk College
+Hi, I’m Isaiah Lee, a student in the Software Development program at Mohawk College
 - 👀 I’m interested in Full Stack development, Mobile App Development, and Game Development
 - 🌱 I’m currently learning to use React-Native and Node.js to create Mobile Applications
 - 📫 How to reach me:
